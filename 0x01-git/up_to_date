@@ -1,3 +1,6 @@
 git fetch
 git reset --hard HEAD
 git merge origin/$CURRENT_BRANCH
+
+OR simply use:
+git pull
